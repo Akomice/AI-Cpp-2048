@@ -1,28 +1,32 @@
 # 2048
 
-Amusez-vous bien à jouer notre version du 2048 !
+Have fun playing my version of 2048!
+
+# SKills 
+
+C++ programming with SFML interfaces, Makefile, Unit tests
 
 # Compilation 
 
-Tout d'abord, placez-vous dans le répertoire des fichiers.
+First, go to the files directory.
 
-Pour compiler le jeu au niveau 0 (affichage sur le terminal, déplacement avec z,q,s,d)
-Veuillez écrire dans votre terminal la commande suivante :
+To compile the game at level 0 (display on the terminal, move with z,q,s,d)
+Please write the following command in your terminal:
 
 #### make modele
 
-Pour compiler le jeu au niveau 1 (affichage en couleur sur le terminal, déplacement avec les flèches directionnelles) 
-Veuillez écrire dans votre terminal la commande suivante :
+To compile the game to level 1 (color display on the terminal, movement with the directional arrows) 
+Please write the following command in your terminal:
 
 #### make niveau_1_2
 
-Pour compiler le jeu au niveau 3 (affichage sur une interface graphique, déplacement avec les flèches directionnelles) 
-Veuillez écrire dans votre terminal la commande suivante :
+To compile the game to level 3 (display on a graphical interface, move with the directional arrows) 
+Please write the following command in your terminal:
 
 #### make niveau_3
 
-Si vous souhaitez compiler et executer le fichier correspondant aux tests des fonctions du jeu 
-Veuillez écrire dans votre terminal la commande suivante :
+If you wish to compile and execute the file corresponding to the game function tests 
+Please write the following command in your terminal:
 
-#### make fichier-test
+#### make ficher-test
 
